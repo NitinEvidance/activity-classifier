@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
+```
+
+5. Click **"Commit changes"**
+
+---
+
+## Screenshot Guide
+
+When you open a file on GitHub, you should see icons like this at the top:
+```
+📄 vercel.json    [Raw] [Blame] [✏️] [📋] [🗑️]
